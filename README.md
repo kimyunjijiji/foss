@@ -19,3 +19,6 @@
 ###2일차
 *PostGIS
 *Geoserver
+
+###3일차  
+QGIS를 이용한 
